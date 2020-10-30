@@ -19,7 +19,6 @@ const estiloItemLista = StyleSheet.create({
     itemFoto: {   
         flex: 1,
         height: 300,
-        alignSelf: 'center',
         marginTop: 20,
         marginBottom: 20
     },
